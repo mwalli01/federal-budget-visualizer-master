@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Federal Budget Visualizer.CSharp.Plugins", "Federal Budget Visualizer.CSharp.Plugins.csproj", "{DB44B197-898C-ADBD-B9F9-C0C585BDB17C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Federal Budget Visualizer.CSharp", "Federal Budget Visualizer.CSharp.csproj", "{A901E52E-35B0-353C-CA06-1F2F1144A447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Federal Budget Visualizer.CSharp.Editor", "Federal Budget Visualizer.CSharp.Editor.csproj", "{2A2AC348-B106-13D2-12D0-DC541499DC22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB44B197-898C-ADBD-B9F9-C0C585BDB17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB44B197-898C-ADBD-B9F9-C0C585BDB17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB44B197-898C-ADBD-B9F9-C0C585BDB17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB44B197-898C-ADBD-B9F9-C0C585BDB17C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A901E52E-35B0-353C-CA06-1F2F1144A447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A901E52E-35B0-353C-CA06-1F2F1144A447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A901E52E-35B0-353C-CA06-1F2F1144A447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A901E52E-35B0-353C-CA06-1F2F1144A447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A2AC348-B106-13D2-12D0-DC541499DC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2AC348-B106-13D2-12D0-DC541499DC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2AC348-B106-13D2-12D0-DC541499DC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2AC348-B106-13D2-12D0-DC541499DC22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
